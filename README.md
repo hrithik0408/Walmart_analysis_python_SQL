@@ -23,7 +23,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ### 3. Download Walmart Sales Data
    - **Data Source**: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
-   - **Dataset Link**: [Walmart Sales Dataset]
+   - **Dataset Name**: Walmart Sales Dataset
    - **Storage**: Save the data in the `data/` folder for easy reference and access.
 
 ### 4. Install Required Libraries and Load Data
